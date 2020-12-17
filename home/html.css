@@ -6,4 +6,5 @@
   color: red;
   background-color: red;
   line-height: 55px;
+  min-height: 55px;
 }
